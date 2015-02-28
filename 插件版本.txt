@@ -1,0 +1,2 @@
+cef_binary_3.2171.1875_windows32
+xilium-xilium.cefglue-9d9727f0486d

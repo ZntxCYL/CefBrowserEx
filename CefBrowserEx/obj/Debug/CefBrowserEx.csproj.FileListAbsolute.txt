@@ -1,0 +1,11 @@
+E:\Projects\new\CefBrowserTest\CefBrowserEx\bin\Debug\CefBrowserEx.dll
+E:\Projects\new\CefBrowserTest\CefBrowserEx\bin\Debug\CefBrowserEx.pdb
+E:\Projects\new\CefBrowserTest\CefBrowserEx\bin\Debug\Xilium.CefGlue.dll
+E:\Projects\new\CefBrowserTest\CefBrowserEx\bin\Debug\CefBrowserEx.dll.config
+E:\Projects\new\CefBrowserTest\Bin\CefBrowserEx.dll
+E:\Projects\new\CefBrowserTest\Bin\CefBrowserEx.pdb
+E:\Projects\new\CefBrowserTest\CefBrowserEx\obj\Debug\CefBrowserEx.Operation.IEBrowser.resources
+E:\Projects\new\CefBrowserTest\CefBrowserEx\obj\Debug\CefBrowserEx.csproj.GenerateResource.Cache
+E:\Projects\new\CefBrowserTest\CefBrowserEx\obj\Debug\CefBrowserEx.dll
+E:\Projects\new\CefBrowserTest\CefBrowserEx\obj\Debug\CefBrowserEx.pdb
+E:\Projects\new\CefBrowserTest\CefBrowserEx\obj\Debug\CefBrowserEx.csprojResolveAssemblyReference.cache
